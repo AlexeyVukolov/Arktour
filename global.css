@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-brygada-1918: "Brygada 1918";
+  --font-cormorant-garamond: "Cormorant Garamond";
+  --font-cookie: Cookie;
+  --font-cormorant-infant: "Cormorant Infant";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-21xl: 40px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkslateblue: #0e508d;
+  --color-black: #000;
+
+  /* border radiuses */
+  --br-481xl: 500px;
+}
